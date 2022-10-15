@@ -14,7 +14,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/839e888b76827f8d3867/test_coverage)](https://codeclimate.com/github/Syndesi/cypher-entity-manager-bridge-laravel/test_coverage)
 [![Maintainability](https://api.codeclimate.com/v1/badges/839e888b76827f8d3867/maintainability)](https://codeclimate.com/github/Syndesi/cypher-entity-manager-bridge-laravel/maintainability)
 
-# Syndesi's Cypher Entity Manager
+# Syndesi's Cypher Entity Manager Bridge Laravel
 
 This library provides an entity manager for Cypher data types.
 
